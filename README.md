@@ -11,6 +11,7 @@ Once the user's face has been detected using a Haar-cascade classifier in the im
 ## 2. Problem Statement
 
 We are trying to solve the problems mentioned below-
+
   2.1 Helping people to overcome mental stress, anxiety, and acute depression, including other mood fluctuations like- gloom, worry, and fear (untouched yet). Thus it will be more like a music therapy system rather than a mere music recommendation system.
   
   2.2 We are also focussing on people who drive unaccompanied and are going through mental issues. Our model will detect the mood and play as a positive distraction, maybe by lifting the mood. 
