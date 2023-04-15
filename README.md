@@ -10,7 +10,7 @@ This project proposes a system that detects a person's mood through facial emoti
 
 Once the user's face has been detected using a Haar-cascade classifier in the image captured through the webcam, the image is passed on to the trained and optimized CNN model to predict the user's mood. A playlist is then generated from the music database based on the predicted mood. Songs are randomly selected from the respective mood category, and the system generates the selected songs through external storage and displays them to the user for enhancing their mood. This paper aims to provide an alternative method of suggesting songs to users based on their facial emotions and to create a high-accuracy CNN model for detecting facial emotions.
 
-## 2. Problem Statement
+## 2. Problem Statement(s)
 
 We are trying to solve the problems mentioned below-
 
