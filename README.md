@@ -18,3 +18,10 @@ We are trying to solve the problems mentioned below-
   
    2.2 We are also focussing on people who drive unaccompanied and are going through mental issues. Our model will detect the mood and play as a positive distraction, maybe by lifting the mood. 
 
+### Catch me
+For any query, ping me on 
+- LinkedIn: [@jabhij](https://www.linkedin.com/in/jabhij/)
+- Twitter: [@jabhij](https://twitter.com/jabhij)
+- Web: [LetUsTweak](http://letustweak.com)
+
+Hope, it helps!! ヅ
